@@ -1,7 +1,8 @@
 package Acme::MyFirstModule::DRZIGMAN;
 
 use 5.006;
-use strict # this is a syntax error that should cause the tests to fail
+
+use strict; # this is a syntax error that should cause the tests to fail
 use warnings FATAL => 'all';
 
 =head1 NAME
